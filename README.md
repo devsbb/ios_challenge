@@ -18,7 +18,7 @@ API Specs : https://developers.google.com/places/web-service/search
 
 3. You are expected to write api calls using URLSession.
 
-4. An adequate solution might be developed within 8-10 hours, but please spend however much time if it takes to construct a great solution.
+4. An adequate solution might be developed within 5 hours.
 
 
 # HOW TO SUBMIT CHALLENGE 
