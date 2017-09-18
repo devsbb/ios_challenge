@@ -28,7 +28,8 @@ API Specs : https://developers.google.com/places/web-service/search
 
 4. Commit the code in atomic chunks of commits with meaningful description for each commit.
 
-3. Send us the repository link.
+3. Send us an email at tech@getgrover.com with subject "Submit - iOS Coding Challenge" 
+   Include the repository link to your submission in the email.
 
 
 # OUR JUDGEMENT GUIDELINES
