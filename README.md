@@ -26,6 +26,8 @@ API Specs : https://developers.google.com/places/web-service/search
 
 2. Upload your task in to the repository.
 
+4. Commit the code in atomic chunks of commits with meaningful description for each commit.
+
 3. Send us the repository link.
 
 
